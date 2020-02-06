@@ -5,11 +5,10 @@ CREATE TABLE students (
   tardies INTEGER
 );
 
-INSERT INTO students (name,highest_student_gpa) VALUES ()
-def highest_student_gpa
+INSERT INTO students (name,highest_student_gpa) VALUES ('Zak', 4)
 end
 
-def lowest_student_gpa
+INSERT INTO students (name, lowest_student_gpa) VALUES ()
 end
 
 def average_student_gpa
