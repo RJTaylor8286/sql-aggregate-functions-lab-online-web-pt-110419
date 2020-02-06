@@ -2,7 +2,7 @@ CREATE TABLE students (
   name TEXT,
   grade INTEGER,
   gpa INTEGER, 
-  net_worth INTEGER
+  tardies INTEGER
 );
 
 def highest_student_gpa
