@@ -5,6 +5,7 @@ CREATE TABLE students (
   tardies INTEGER
 );
 
+INSERT INTO
 def highest_student_gpa
 end
 
